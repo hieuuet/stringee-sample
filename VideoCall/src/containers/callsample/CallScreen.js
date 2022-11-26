@@ -13,6 +13,8 @@ import {
 } from "react-native";
 import { each } from "underscore";
 
+
+
 import { StringeeCall, StringeeVideoView } from "stringee-react-native";
 
 var height = Dimensions.get("window").height;
